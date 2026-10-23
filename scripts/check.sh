@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 echo "=========================================="
 echo "Running automated CI validation script..."
 echo "=========================================="
